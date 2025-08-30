@@ -57,13 +57,15 @@ Scikit-learn (ML models & evaluation)
 Imbalanced-learn (SMOTE) (handling class imbalance)
 
 📊 Model Performance (Key Metrics)
-Model	Accuracy	Precision	Recall
-Naïve Bayes	~73%	~76%	~70%
-Logistic Regression	~75%	~78%	~71%
-Decision Tree	~73%	~74%	~70%
-Random Forest	~75%	~77%	~73%
-KNN (best tuned)	~67%	~83%	~44%
-SVC (sigmoid)	77.5%	79.6%	74%
+| Model               | Accuracy  | Precision | Recall  |
+| ------------------- | --------- | --------- | ------- |
+| Naïve Bayes         | \~73%     | \~76%     | \~70%   |
+| Logistic Regression | \~75%     | \~78%     | \~71%   |
+| Decision Tree       | \~73%     | \~74%     | \~70%   |
+| Random Forest       | \~75%     | \~77%     | \~73%   |
+| KNN (best tuned)    | \~67%     | \~83%     | \~44%   |
+| **SVC (sigmoid)**   | **77.5%** | **79.6%** | **74%** |
+
 🚀 How to Run
 
 Clone this repository
